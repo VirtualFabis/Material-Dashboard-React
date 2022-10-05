@@ -75,7 +75,6 @@ export default function AdminNavbar({ showSidebar, setShowSidebar }) {
                                     Another Action
                                 </DropdownItem>
                                 <DropdownItem color="lightBlue">
-                                    Something Else
                                 </DropdownItem>
                             </Dropdown>
                         </div>
